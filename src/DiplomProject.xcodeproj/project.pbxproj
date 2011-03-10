@@ -316,6 +316,7 @@
 				GCC_PREFIX_HEADER = DiplomProject_Prefix.pch;
 				INFOPLIST_FILE = "DiplomProject-Info.plist";
 				PRODUCT_NAME = DiplomProject;
+				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
@@ -328,6 +329,7 @@
 				GCC_PREFIX_HEADER = DiplomProject_Prefix.pch;
 				INFOPLIST_FILE = "DiplomProject-Info.plist";
 				PRODUCT_NAME = DiplomProject;
+				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
